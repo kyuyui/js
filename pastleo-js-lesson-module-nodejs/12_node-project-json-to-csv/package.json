@@ -1,0 +1,14 @@
+{
+  "name": "12_node-project-json-to-csv",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "main": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kyuyui",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^4.3.6"
+  }
+}
